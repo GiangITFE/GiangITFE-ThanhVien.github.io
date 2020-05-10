@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyễn Văn Chương",
+        "tel": "09282282897",
+        "permission":1
+    },
+    {
+        "id": 2,
+        "name": "Phan Thị Phượng",
+        "tel": "012233333",
+        "permission":2
+    },
+    {
+        "id": 3,
+        "name": "Nguyễn Văn Nam",
+        "tel": "0109226222",
+        "permission":3
+    },
+    {
+        "id": 4,
+        "name": "Nguyễn Thị Hạnh",
+        "tel": "0109226222",
+        "permission":4
+    },
+    {
+        "id": 5,
+        "name": "Nguyễn Văn Quốc",
+        "tel": "0182725511",
+        "permission":3
+    },
+    {
+        "id": 6,
+        "name": "Nguyễn Văn Giang",
+        "tel": "0367330397",
+        "permission":3
+    },
+    {
+        "id": 7,
+        "name": "Nguyễn Hương Trà",
+        "tel": "0182725511",
+        "permission":6
+    }
+]
